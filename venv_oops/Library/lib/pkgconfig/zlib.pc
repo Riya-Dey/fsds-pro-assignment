@@ -1,0 +1,13 @@
+prefix=F:/MANTA/Files/Assignment_OOPs/venv_oops/Library
+exec_prefix=F:/MANTA/Files/Assignment_OOPs/venv_oops/Library
+libdir=F:/MANTA/Files/Assignment_OOPs/venv_oops/Library/lib
+sharedlibdir=F:/MANTA/Files/Assignment_OOPs/venv_oops/Library/lib
+includedir=F:/MANTA/Files/Assignment_OOPs/venv_oops/Library/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}

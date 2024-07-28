@@ -1,0 +1,4 @@
+Apples - 50
+Bananas - 30
+Cherries - 20
+Dates - 15
